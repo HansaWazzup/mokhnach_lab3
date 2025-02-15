@@ -1,7 +1,3 @@
-fastapi[standard]
+fastapi
 sqlalchemy
 pymysql
-pydantic
-bcrypt
-pyjwt
-passlib
